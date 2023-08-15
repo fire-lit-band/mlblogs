@@ -14,18 +14,13 @@
     window.$docsify = {
       name: '',
       repo: '',
-	  relativePath: true,
+	  basePath: '../',
+	  
 	  loadSidebar: true,
 	  coverpage: true,
 	  loadNavbar: '_navbar.md',
-	  plugins: [
-    function(hook,vm) {
-      hook.afterEach(function(html, next) {
-    let reg = new RegExp(vm.config.basePath + ".*/assets", 'ig');
-    html = html.replace(reg, vm.config.basePath + "assets");
-    next(html);
-});
-}]
+	  relativePath: true,
+	 
 	  
 	  };
   </script>
