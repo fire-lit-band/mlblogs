@@ -17,10 +17,19 @@
 	  relativePath: true,
 	  loadSidebar: true,
 	  coverpage: true,
-	  loadNavbar: '_navbar.md'
+	  loadNavbar: '_navbar.md',
+	  markdown: {
+    // https://marked.js.org/#/USING_PRO.md#renderer
+    renderer: {
+        image: function(href, title) {
+            return `<img src="${href}" data-origin="${href}" alt="${title}">`
+        }
+    }
+}
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  
 </body>
 </html>
