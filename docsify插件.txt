@@ -1,1 +1,10 @@
+ markdown: {
+    // https://marked.js.org/#/USING_PRO.md#renderer
+    renderer: {
+        image: function(href, title) {
+            return `<img src="${href}" data-origin="${href}" alt="${title}">`
+        }
+    }
+}
+    }
 http://www.cvtutorials.com/#/docsify_starter/doc_c3?id=_36-%e4%bb%a3%e7%a0%81%e5%9d%97%e7%82%b9%e5%87%bb%e5%a4%8d%e5%88%b6
