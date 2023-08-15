@@ -18,11 +18,12 @@
 	  loadSidebar: true,
 	  coverpage: true,
 	  loadNavbar: '_navbar.md',
-	  hook.afterEach(function(html, next) {
-    let reg = new RegExp(vm.config.basePath + ".*/images", 'ig');
-    html = html.replace(reg, vm.config.basePath + "images");
-    next(html);
-})
+	  plugins: [
+    function(hook) {
+      hook.beforeEach(function(content) {
+    return content.replace(new RegExp("/images", 'ig'), "../images");
+});
+}]
 	  
 	  }
   </script>
