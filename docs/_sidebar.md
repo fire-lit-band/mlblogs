@@ -1,6 +1,6 @@
 - [绘图笔记](/draw/)
   - [1.核对清单](/draw/1.checking.md)
-  - [2.matplotlib入门.md](/draw/2.matplotlib入门.md)
+  - [2.matplotlib入门.md](/draw/2.matplotlibinit.md)
 - [序章](/序章/)
   - [何为机器学习](/序章/何为机器学习.md)
 - [数学原理](/数学原理/)
