@@ -18,3 +18,5 @@
   - [优化](/数学原理/优化/)
   - [时间序列](/数学原理/时间序列/)
   - [统计](/数学原理/统计/)
+- [概率](/introduction probability/)
+  - [概率定义](/introduction probability/1.定义.md)
