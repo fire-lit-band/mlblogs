@@ -1,6 +1,3 @@
-- [_coverpage](/_coverpage.md)
-- [_navbar](/_navbar.md)
-- [config](/config/)
 - [draw](/draw/)
   - [1-1.checking](/draw/1-1.checking.md)
   - [1-2.matplotlib入门](/draw/1-2.matplotlib入门.md)
