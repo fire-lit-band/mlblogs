@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "c67dfbe938e62ebe",
+    "type": "split",
+    "children": [
+      {
+        "id": "407237c1aa412478",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "图片/-pNFoYjdw6P6stc-bOzVjFnhL4iEdut-UtezzM1zBwxHw-Nw4t-6aXbHYqfFxaWE5CFwDMKn5T4xgbNP0ZfmR0KjJ554FQq6qtkihW_IZYK7VJMoDv3sDY8iXie4xsAE.png"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39d55e62337c46ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f2aa580b15758d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5e81f333de2ad9e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab28592d044179cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305
+  },
+  "right": {
+    "id": "081c60f44cf8efe8",
+    "type": "split",
+    "children": [
+      {
+        "id": "635614f400227024",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3bc3d6fc58e04ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "图片/-pNFoYjdw6P6stc-bOzVjFnhL4iEdut-UtezzM1zBwxHw-Nw4t-6aXbHYqfFxaWE5CFwDMKn5T4xgbNP0ZfmR0KjJ554FQq6qtkihW_IZYK7VJMoDv3sDY8iXie4xsAE.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0961c4fc6d3b3e1e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "407237c1aa412478",
+  "lastOpenFiles": [
+    "图片/-pNFoYjdw6P6stc-bOzVjFnhL4iEdut-UtezzM1zBwxHw-Nw4t-6aXbHYqfFxaWE5CFwDMKn5T4xgbNP0ZfmR0KjJ554FQq6qtkihW_IZYK7VJMoDv3sDY8iXie4xsAE.png",
+    "概率统计/1.古典概型.md",
+    "图片/n2_AgQYk1PXkTSGhaSTfHvtDmmTAsb-x43W2LmVLUVDIPjTORQBm58eORWDz8_9_CfxZhBdZ9CbXhsEE-6nf7bWJ1YPE2yFuzbd85ADB9nuH25dYXuPc2V_Etxi0Nqfo.jpeg",
+    "图片/EEqIHDLCHKNreehap8e-m6CAbP4s1DDLi4B5BPCYW583L92bWTUW5NkRbfbew_g0I8wwSvrTRAaxNr-pGPZRsTpYiPCZj2Ib5YjafBl_y0MAivEf_LfTX6Jonboeh5yB.png",
+    "图片/6XbQILRoAkU_s0LxFfR-jgp5zU7optdsHqBiu4XWDddmeXfJLrzM9DUPt7vIbcRn9IVRztp-IP0wOG5f4o6l4g5BINxeLNrLkfDYvz03-JsCMgGkCcxnMJ2sI_38uqji.png",
+    "图片/2D08u_WPpAbQJZHnBfRhq8tQ4Rsxc-3YrJc56Cx3ZTY3Bu-HQTwq158BxaiHfoOY1u8HlBTBlBTG6_Q5cWQar-6zucd9i0dKOX3gc-h3z8oqVe1I_yyZ6s7bJh3nFcYw.png",
+    "概率统计/hypothesis testing.md",
+    "概率统计/4.随机变量定义.md",
+    "概率统计/随机变量的变换.md",
+    "概率统计/点估计.md"
+  ]
+}
