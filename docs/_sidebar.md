@@ -6,6 +6,7 @@
   - [assets](/draw/assets/)
 - [概率](/introductionprobability/)
   - [概率定义](/introductionprobability/1.定义.md)
+  - [随机变量](/introductionprobability/2.随机变量.md)
 - [序章](/序章/)
   - [何为机器学习](/序章/何为机器学习.md)
 - [强化学习](/强化学习/)
